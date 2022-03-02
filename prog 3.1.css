@@ -1,0 +1,24 @@
+h1
+{
+color:orange;
+margin-left:80px;
+}
+p
+{
+font-size:20px;
+color:green;
+text-align:center;
+opacity:1;
+}
+a
+{
+color:red;
+
+}
+div {
+background-color:white;
+width:500px;
+border:15px solid blue;
+padding:50px;
+margin:20px;
+}
